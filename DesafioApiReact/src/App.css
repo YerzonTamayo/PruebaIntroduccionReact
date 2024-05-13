@@ -1,0 +1,53 @@
+.mapa{
+  width: 14.9rem;
+  height: 250px;
+  border-radius: 15px;
+  align-items: center;
+
+}
+
+.contenCard{
+  display: 	flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 25px;
+  align-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}
+
+.Contend{
+  display: flex;
+  gap: 15px;
+  padding: 10px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.carta{
+  border: solid 1px black;
+  border-radius: 15px;
+  width: 15rem;
+  height: auto;
+}
+  .conten{
+    padding: 5px;
+  }
+
+.titulo{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.buscador{
+  width: 50%;
+}
+
+.ContentBuscador{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
